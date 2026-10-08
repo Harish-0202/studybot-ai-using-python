@@ -1,2 +1,2 @@
 # studybot-ai-using-python
-this is studybot which has speech recognization and it is connected to the gemini api which will be very usefull for the study purposes and while clearing doubts
+StudyBot AI is a voice-enabled study assistant chatbot built with Python, Tkinter, Google Gemini AI, speech recognition, and text-to-speech. It helps students with study tips, exam preparation, programming, web development, career guidance, and project ideas.
